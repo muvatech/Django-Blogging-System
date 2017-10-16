@@ -1,0 +1,24 @@
+{% load staticfiles %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{% block title %}{% endblock %}</title>
+    <link rel="stylesheet" href="{% static "css/bootstrap.min.css" %}">
+</head>
+<body>
+  <div class="container">
+      <div class="row">
+          <div class="col-md-8">
+              {% block content %}
+
+              {% endblock %}
+          </div>
+          <div class="col-md-4">
+              <h3>Muvalab Blog</h3>
+              <p>This is our sidebar</p>
+          </div>
+      </div>
+  </div>
+</body>
+</html>
