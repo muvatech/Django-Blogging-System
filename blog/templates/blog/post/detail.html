@@ -3,7 +3,10 @@
 {% block title %}{{ post.title }}{% endblock %}
 
 {% block content %}
-   <h3>{{ post.title }}</h3>
-    <p class="small">Published {{ post.publish }} by {{ post.author }}</p>
-    <p>{{ post.body|linebreaks }}</p>
+   <div class="row">
+       <h3>{{ post.title }}</h3>
+       <p class="small" style="color: #777777">Published {{ post.publish }} by {{ post.author }}</p>
+       <p>{{ post.body|linebreaks }}</p>
+       <div class="fb-comments" data-href="{{ post.build_absolute_uri }}" data-numposts="5"></div>
+   </div>
 {% endblock %}
