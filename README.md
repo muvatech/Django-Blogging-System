@@ -8,6 +8,7 @@ and you also know each of these post will have comments.
 
 ## Topics that will be covered in this tutorial:
 Lesson 1 [Introduction to building a blog application using python and django framework](http://muva.co.ke/blog/building-a-blog-application-with-python-3-5-and-django-1-11-4-web-framework/)
+
 Lesson 2 [Installing Django in Our Virtual Environment and Creating Our Project for a Blog](http://muva.co.ke/blog/lesson-2-installing-django-in-our-virtual-environment-and-creating-our-project-for-a-blog-application-created-using-django-1-11-4-and-python-3-5/)
 Lesson 3 [Understanding Django Project Settings and Creating Blog Application](http://muva.co.ke/blog/lesson-3-understanding-django-project-settings-and-creating-blog-app-in-django-1-11-4/)
 Lesson 4 [Designing Blog Application Data Schema in Django 1.11.4 and Python 3.5](http://muva.co.ke/blog/lesson-4-designing-blog-application-data-schema-in-django-1-11-4-and-python-3-5/)
