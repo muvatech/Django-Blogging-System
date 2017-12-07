@@ -24,3 +24,12 @@ Lesson 7 [Creating Post List & Detail Views for Our Blog in Django 1.11.4 and Py
 Lesson 8 [Creating Templates for Our Blog Application in Django 1.11.4 and Python 3.5](http://muva.co.ke/blog/lesson-8-creating-templates-for-our-blog-application-in-django-1-11-4-and-python-3-5/)
 
 Lesson 9 [Creating Pagination for Our Blog Application in Django 1.11.4 and Python 3.5](http://muva.co.ke/blog/lesson-9-creating-pagination-for-our-blog-application-in-django-1-11-4-and-python-3-5/)
+
+Lesson 10 [Creating RSS Feeds for Our Blog Application in Django 1.11.4 and Python 3.5](http://muva.co.ke/blog/lesson-10-creating-rss-feeds-for-our-blog-application-in-django-1-11-4-and-python-3-5/)
+
+Lesson 11 [Creating Sitemap for Our Blog Application in Django 1.11.4 and Python 3.5](http://muva.co.ke/blog/lesson-11-creating-sitemaps-for-our-blog-application-in-django-1-11-4-and-python-3-5/)
+
+Lesson 12 [Creating Comment System for Our Blog Application in Django 1.11.4 and Python 3.5](http://muva.co.ke/blog/lesson-12-creating-comment-system-for-our-blog-application-in-django-1-11-4-and-python-3-5/)
+
+## Conclusion
+With that, we conclude our tutorial. Where to take it from here: Attempt [building a library system tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Tutorial_local_library_website) by Mozilla Development Network
